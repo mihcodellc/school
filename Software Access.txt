@@ -1,0 +1,105 @@
+Online student Portal
+https://apps.okstate.edu/portal/osu
+
+Online Remote desktop for student
+	Omnissa Horizon client installed on local computer
+	http://desktop.okstate.edu/
+
+https://desktop.okstate.edu/portal/webclient/#/launchitems
+
+Jmp student edition on google.com
+
+SAS viya for learners - no 3rd weekend
+https://www.sas.com/en_us/software/viya-for-learners.html
+https://learn.sas.com/course/view.php?id=6825
+	JupiterLab on SAS Viya
+		https://jupyter.org/try-jupyter/lab/
+	Jupyter Notebook/Lab - SAS Viya for Learners
+		https://vfl-023.engage.sas.com/user/monktar.bello@okstate.edu/lab?
+		
+		https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb
+	Launch Software
+		https://vfl-023.engage.sas.com/SASLanding/
+		
+		
+Python
+	Python Notebook
+		https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb		
+	Python Lab: prefered to do a lot
+		https://jupyter.org/try-jupyter/lab/
+		
+Anaconda
+	FOr python/R and add packages
+	
+	
+Certification:
+SAS Visual Business Analytics Specialist
+SAS Certified Data Integration Developer for SAS 9
+SAS® Certified Specialist: Administration of SAS® Viya®
+	https://canvas.okstate.edu/courses/231606/pages/sas-certification-exam-discounts?module_item_id=7374780
+	https://learn.sas.com/course/view.php?id=7015
+		https://learn.sas.com/course/view.php?id=877
+		https://learn.sas.com/course/view.php?id=241
+		https://learn.sas.com/course/view.php?id=244
+		https://learn.sas.com/totara/program/view.php?id=231
+		https://learn.sas.com/course/view.php?id=52
+		
+	once ready get discount with link below or go to SAS Skill Builder for students: https://www.bing.com/ck/a?!&&p=955aa33a0aeb1858f8a1454915fbc195454cb969e113e9417d8c333a624bc036JmltdHM9MTc4NjkyNDgwMA&ptn=3&ver=2&hsh=4&fclid=1875cbff-3018-6c12-1aa1-ddc3319e6ddf&psq=SAS+Skill+Builder+for+Students.&u=a1aHR0cHM6Ly93d3cuc2FzLmNvbS9zYXMvdHJhaW5pbmcvYWNhZGVtaWMvc2tpbGwtYnVpbGRlci1nZXQtc3RhcnRlZC5odG1s
+	https://www.sas.com/en_us/certification/discounts/student-certification.html
+	
+	
+on dataBricks
+		https://customer-academy.databricks.com/learn/mycourses
+Create notebooks
+Run Python
+Run SQL
+Work with datasets
+Analyze data
+Create visualizations
+Create interactive dashboards
+Experiment with Databricks analytics features
+
+
+WEEK 1 NOTES
+
+data scientist > software for insights
+data analyst > visualization fr insights
+
+plan RACE reach, act, convert, engage
+SMART Objectives across RACE
+
+Goals VS Objectives
+Long-term Vision > Broad organizational goals > Specific SMART objectives > Performance driving KPIs
+
+SMART objectives (Specific, Measurable, Achievable, Relevant, Time-bound) 
+SMARTER ie SMART + Evaluate/Evidenced + Reevaluate/Rewarding
+Apply the RACE Framework to focus your marketing objectives
+
+
+how-do-you-turn-business-questions-data-analysis
+	define problem
+	identify data sources
+	Formulate hypotheses
+	Design analysis
+		descriptive
+		predictive
+		prescriptive
+		stories/insights
+		
+		
+DRISP-DM
+	Cross Industry Standard Process for Data Mining
+		Business understanding
+		data understanding
+		data prep
+			prerequisit ie Analytics Plan:id questions > dataset > inclusion/exclusion > id anlysis variable > appropriate methods/software
+		modeling
+		Evaluation: back to Business understanding OR Deployment
+		
+Software
+	Python: easy to learn/intergration, programing/computation, analyze data
+	R: hard to learn, dedicated IDE RStudio, big data, pro way to vizualize data, statistical computation
+	
+Protored exam with Meazure learning/ProctorU	
+https://business.okstate.edu/online/proctored-exams	
+when to register 
