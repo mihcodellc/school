@@ -1,5 +1,9 @@
 Online student Portal
 https://apps.okstate.edu/portal/osu
+https://apps.okstate.edu/portal/osu/index.php/module/Default/action/Student?ticket=ST-148288-WzR6iVCR-RatnXJk-hvXtR3FhDI-stwerpcas16
+
+weekly plan
+	https://canvas.okstate.edu/courses/231606/modules
 
 Online Remote desktop for student
 	Omnissa Horizon client installed on local computer
@@ -10,8 +14,11 @@ https://desktop.okstate.edu/portal/webclient/#/launchitems
 Jmp student edition on google.com
 
 SAS viya for learners - no 3rd weekend
-https://www.sas.com/en_us/software/viya-for-learners.html
+https://auth.sas.com/app/userhome --first time
 https://learn.sas.com/course/view.php?id=6825
+	run software or python
+https://www.sas.com/en_us/software/viya-for-learners.html
+
 	JupiterLab on SAS Viya
 		https://jupyter.org/try-jupyter/lab/
 	Jupyter Notebook/Lab - SAS Viya for Learners
@@ -33,10 +40,12 @@ Anaconda
 	
 	
 Certification:
-SAS Visual Business Analytics Specialist
+SAS Visual Business Analytics Specialist A00-470
 SAS Certified Data Integration Developer for SAS 9
 SAS® Certified Specialist: Administration of SAS® Viya®
 	https://canvas.okstate.edu/courses/231606/pages/sas-certification-exam-discounts?module_item_id=7374780
+	> https://learn.sas.com/course/view.php?id=6825
+		https://vfl-023.engage.sas.com/SASVisualAnalytics/
 	https://learn.sas.com/course/view.php?id=7015
 		https://learn.sas.com/course/view.php?id=877
 		https://learn.sas.com/course/view.php?id=241
@@ -49,7 +58,12 @@ SAS® Certified Specialist: Administration of SAS® Viya®
 	
 	
 on dataBricks
+		exam details: https://www.databricks.com/learn/certification/data-engineer-professional
+		courses learning
 		https://customer-academy.databricks.com/learn/mycourses
+		with monktar1learn@gmail.com
+		practices with free edition
+		https://dbc-ebce898a-bb19.cloud.databricks.com/?autoLogin=true&o=7474643766800795&email=monktar1learn%40gmail.com
 Create notebooks
 Run Python
 Run SQL
@@ -100,6 +114,111 @@ Software
 	Python: easy to learn/intergration, programing/computation, analyze data
 	R: hard to learn, dedicated IDE RStudio, big data, pro way to vizualize data, statistical computation
 	
+Canvas Protered Exam
 Protored exam with Meazure learning/ProctorU	
 https://business.okstate.edu/online/proctored-exams	
-when to register 
+when to register? as online do we need to call 405 744 4048
+the link to Meazure ProctorU in canvas? 
+
+For SAS Visual Business Analytics Specialist A00-470
+do we just pass that amd let you know? notify and then pass before deadline
+
+https://canvas.okstate.edu/courses/231606/pages/week-2-lab-class-materials-and-recording?module_item_id=7618954
+
+SAS LAB
+	import files / SAS File -- sas in finance/health research domain
+	into Library CASUSER(monktar.bello@okstate.edu)
+	
+WEEK 2 NOTES	
+
+	A process is something that takes inputs and transforms them into outputs
+		process variability
+			common cause
+			special cause
+	
+	Variables
+		>dependent = fact/measure
+		>independent = dimensions
+			eg: a predictive model is a representation of how the dependent variable relates to the independent variables
+			
+			CONSTRUCT VALIDITY is "the degree to which something measures what it claims, or purports, to be measuring.
+			RELIABILITY in statistics and psychometrics is the overall consistency of a measure. A measure is said to have a high reliability if it produces similar results under consistent conditions
+	
+	Variable type
+		>categorical: part-to-whole > visualization
+			nominal > Binary &  ???
+			Ordinal
+		>continuous: distribution > visualization: 
+			Interval
+			Ratio
+			
+	Types of analysis
+		Univariate: count, mean median, mode...
+			visualization categorical variable  : bar/column chart, 
+			visualization categorical continuous: Histogram, Box/Violin/density plot
+		Bivariate: relationship
+			visualization categorical variable  : Heat maps, stacked column chart, treemap chart
+			visualization categorical continuous: scatter plot, connected scatterplot,
+		Multivariate: relationship
+			visualization categorical variable  : sankey chart, chord chart, network chart
+			visualization categorical continuous: Bubble chart
+		
+	Visualizations by Analysis type & Variable type(above)
+	
+	Types of statistics
+		Hypothesis of difference or Association > measures end by one of the following type
+			ordinal data: Mann Whitney U test, Friedman ANOVA ...
+			Interval data: independent t-test, ANOVA (F-Test) ...
+
+	Structured data?
+		Importance of SQL
+			valuable cusotmer info, 
+			understand metrics, 
+			make data driven business decisions
+			
+	Unstructured data
+		Data that doesn’t fit neatly into rows and columns
+			>data warehouse
+				Structured data > ETL > data warehouse > BI/Reports
+			> Data lake
+				Structured, Unstructured, semi-structured
+					> Data Science / Machine Learning
+					> ETL > data warehouse > BI/Reports
+			> Data Lakehouse
+					DATA LAKE
+					   layered by
+				META DATA & GOVERANCE LAYER 
+						then tools
+				BI, REPORTS, DATA SCIENCE, MACHINE LEARNING
+					
+	Data collection
+		Types:
+			primary data
+				1st hand, more reliable, control collection method, Time/Money intensive
+			secondary data
+				done by other person, existing work 
+		Tools/sources:
+			surveys,interviews, observations, questionnairem warranty cards, mechanical devices(camera)
+			survey, API(paypal,twitter, travel booking, weather widgets),
+			python web scraping
+			databases, registers
+			
+	Descriptive statistics
+		distribution
+			frequency
+			histogram
+		measures of central tendency
+			mean(Geometric, Weighted, Harmonic, Arithmetic)
+				Geometric: growth rate, ratio
+				Harmonic: average fractions,Rates, speeds where small values influence 
+				Weighted: Values with different importance
+				Arithmetic: Ordinary averages
+			Median
+			Mode
+		measures of variability
+			range
+			Variance
+			Standard Deviation
+					
+week 3 discussion:
+https://canvas.okstate.edu/groups/157033/discussion_topics/1546817
